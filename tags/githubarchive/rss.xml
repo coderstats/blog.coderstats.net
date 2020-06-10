@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Githubarchive</title>
-    <link>http://blog.coderstats.net</link>
+    <link>https://blog.coderstats.net</link>
     <description>Tags » Githubarchive</description>
-    <lastBuildDate>Wed, 05 Jul 2017 01:37:39 </lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 20:41:42 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[GitHub in 2013: Pull Request Actors]]></title>
-        <link><![CDATA[http://blog.coderstats.net/github/2013/pullrequest-actors/]]></link>
+        <link><![CDATA[https://blog.coderstats.net/github/2013/pullrequest-actors/]]></link>
         <description><![CDATA[An IPython notebook presenting a visual overview of GitHub repo pull request actors in 2013 based on data obtained from the GitHub Archive.]]></description>
-        <guid><![CDATA[http://blog.coderstats.net/github/2013/pullrequest-actors/]]></guid>
+        <guid><![CDATA[https://blog.coderstats.net/github/2013/pullrequest-actors/]]></guid>
         <pubDate>Fri, 01 Aug 2014 13:48:22 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[GitHub in 2013: Fork Events]]></title>
-        <link><![CDATA[http://blog.coderstats.net/github/2013/fork-events/]]></link>
+        <link><![CDATA[https://blog.coderstats.net/github/2013/fork-events/]]></link>
         <description><![CDATA[An IPython notebook presenting a visual overview of GitHub fork request events in 2013 based on data obtained from the GitHub Archive.]]></description>
-        <guid><![CDATA[http://blog.coderstats.net/github/2013/fork-events/]]></guid>
+        <guid><![CDATA[https://blog.coderstats.net/github/2013/fork-events/]]></guid>
         <pubDate>Fri, 24 Jan 2014 14:15:22 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[GitHub in 2013: Follow Events]]></title>
-        <link><![CDATA[http://blog.coderstats.net/github/2013/follow-events/]]></link>
+        <link><![CDATA[https://blog.coderstats.net/github/2013/follow-events/]]></link>
         <description><![CDATA[An IPython notebook presenting a brief visual overview of GitHub user follow events in 2013 based on data obtained from the GitHub Archive.]]></description>
-        <guid><![CDATA[http://blog.coderstats.net/github/2013/follow-events/]]></guid>
+        <guid><![CDATA[https://blog.coderstats.net/github/2013/follow-events/]]></guid>
         <pubDate>Mon, 20 Jan 2014 16:53:22 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[GitHub in 2013: Event Types and Commits]]></title>
-        <link><![CDATA[http://blog.coderstats.net/github/2013/event-types/]]></link>
+        <link><![CDATA[https://blog.coderstats.net/github/2013/event-types/]]></link>
         <description><![CDATA[An IPython notebook presenting a brief visual overview of GitHub event types in 2013 based on data obtained from the GitHub Archive.]]></description>
-        <guid><![CDATA[http://blog.coderstats.net/github/2013/event-types/]]></guid>
+        <guid><![CDATA[https://blog.coderstats.net/github/2013/event-types/]]></guid>
         <pubDate>Fri, 10 Jan 2014 19:23:22 </pubDate>
     </item>
     
